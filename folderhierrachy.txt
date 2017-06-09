@@ -1,0 +1,42 @@
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						├── app.js
+																						├── package.json
+																						├── public
+																						│   ├── images
+																						│   ├── js
+																						│   └── css
+																						│       └── style.css
+																						├── routes
+																						│   ├── index.js
+																						│   └── customers.js
+																						└── views
+																							├── customers.ejs
+																							└── add_customer.ejs
+																							└── edit_customer.ejs
+																							└── layouts
+																								 └── header.ejs
+																								 └── footer.ejs
